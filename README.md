@@ -1,4 +1,4 @@
-Good day Mr Chew. (ill make this short)
+
 
 A. How-to:
 	1. You can use 7th option as Quick Insert (input followed as sample you provided)
@@ -23,7 +23,3 @@ D. Amendment [My comment start/end with //** **//]:
 	LINE 227-233 = adding posi for child, using the i=i*2 and i=(i*2)+1
 
 	LINE 258-318 = function parse() for testing the input
-
-
-
-////////////DISCLAIMER: I DO NOT COPY ANYONE in my class, and i dont even have a glimpse on theirs.
